@@ -22,6 +22,6 @@ Here are some ideas to get you started:
 
 🏆 Awards
 
-KT AIVLE SCHOOL 3rd BIG PROJECT
+###[KT AIVLE SCHOOL 3rd BIG PROJECT](
 
 github 우수상 수상
