@@ -22,5 +22,5 @@ Here are some ideas to get you started:
 
 🏆 Awards
 
-###[KT AIVLE SCHOOL 3rd BIG PROJECT](https://github.com/KT-AIVLE-3rd-AI-Team10/funibuni-main)
+### [KT AIVLE SCHOOL 3rd BIG PROJECT](https://github.com/KT-AIVLE-3rd-AI-Team10/funibuni-main)
 - github 우수상 수상
