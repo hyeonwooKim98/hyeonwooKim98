@@ -1,4 +1,4 @@
-### Hi there 👋
+### 👋 안녕하세요, 저는 김현우입니다. AI와 이미지 프로세싱에 관심을 가진 열정적인 개발자입니다!👋
 
 <!--
 **hyeonwooKim98/hyeonwooKim98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
