@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 👨‍🎓 Studied in
 -------------------------------------
-> - 2017.03 ~ 2023.08 Senior, Gangneung-Wonju National University, Department of Electronic Engineering, Majoring in Technology (GPA : 3.1/4.5 (85.64/100) )
+> - 2017.03 ~ 2023.02 Senior, Gangneung-Wonju National University, Department of Electronic Engineering, Majoring in Technology (GPA : 3.1/4.5 (85.64/100) )
 > - 2023.01.31 ~ 2023.07.18 KT AIVLE School, Corporate Practical AI/DX Talent Development Program
 
 🏆 Awards
