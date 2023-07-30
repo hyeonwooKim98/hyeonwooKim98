@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 🏹 Certification
 ------------------
 > - AICE(AI Certificate for Everyone) ASSOCIATE<br>
-> AICE_20230421_A00126<br>
+> AICE_20230421_A00065<br>
 > (주)케이티 (주)한국경제신문<br>
 > 2023.04.21
 
