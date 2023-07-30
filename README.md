@@ -23,12 +23,12 @@ Here are some ideas to get you started:
 
 🏆 Awards
 -----------------------------------------
-[KT AIVLE SCHOOL 3rd BIG PROJECT](https://github.com/KT-AIVLE-3rd-AI-Team10/funibuni-main)
-- [github](https://github.com/KT-AIVLE-3rd-AI-Team10) 우수상 수상
+> [KT AIVLE SCHOOL 3rd BIG PROJECT](https://github.com/KT-AIVLE-3rd-AI-Team10/funibuni-main)
+> - [github](https://github.com/KT-AIVLE-3rd-AI-Team10) 우수상 수상
 
 🏹 Certification
 ------------------
-- AICE(AI Certificate for Everyone) ASSOCIATE<br>
-AICE_20230421_A00126<br>
-(주)케이티 (주)한국경제신문<br>
-2023.04.21
+> - AICE(AI Certificate for Everyone) ASSOCIATE<br>
+> AICE_20230421_A00126<br>
+> (주)케이티 (주)한국경제신문<br>
+> 2023.04.21
